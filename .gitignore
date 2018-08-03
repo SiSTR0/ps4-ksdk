@@ -5,4 +5,5 @@
 *.rar
 *.zip
 .vscode
+.idea
 build

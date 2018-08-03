@@ -13,7 +13,7 @@
 #include "ksdk_util.h"
 #include "ksdk_bsd.h"
 
-#define __Xfast_syscall 0x1C0
+#define __Xfast_syscall 0x30EB30
 
 #define KFUNC(slide, name, ret, args) \
     extern ret (*name) args
